@@ -1,2 +1,2 @@
 # JS-Ninja
-Quiz Ninja project and other projects from JS Ninja book
+Quiz Ninja project from JS Ninja book
